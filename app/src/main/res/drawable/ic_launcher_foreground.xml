@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rising Trend Base Beam (Cyan) -->
+    <path
+        android:pathData="M28,80 L52,56 L68,66 L86,28"
+        android:strokeWidth="7"
+        android:strokeColor="#00D2C4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Abstract "T" Crossbar & Vertical Stem (White) -->
+    <path
+        android:pathData="M34,34 L62,34 M48,34 L48,64"
+        android:strokeWidth="6"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Abstract "I" Stem (Emerald) -->
+    <path
+        android:pathData="M72,42 L72,76"
+        android:strokeWidth="6"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round" />
+
+    <!-- Learning Peak Node (Amber Gold) -->
+    <path
+        android:pathData="M86,28 m -5,0 a 5,5 0 1,0 10,0 a 5,5 0 1,0 -10,0"
+        android:fillColor="#F59E0B" />
+</vector>
